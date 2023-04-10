@@ -1,7 +1,6 @@
 
 
 ## Projects
------
 ### 학습 시간 인증 공유 "Sduty+"
 #### └ Timer로 학습 시간을 기록해 관리하고, SNS로 공유할 수 있는 Android App
 ### <b><a href="https://github.com/forlivd/SdutyPlus">- 학습 기록 관리 앱 Repository </a></b>
