@@ -24,4 +24,4 @@
 
 ### ☕ 내 손 안의 카페 "Smart Store"
 #### └ Spring 서버, 웹 프론트, 모바일을 개발하여 연동한 상점 정보 확인 및 주문 Web/Mobile 서비스
-### <b><a href="https://github.com/forlivd/cafe-smart-store/">- 카체 주문 앱  자세히 보기 </a></b>  &nbsp; <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> 
+### <b><a href="https://github.com/forlivd/cafe-smart-store/">- 카페 주문 앱  자세히 보기 </a></b>  &nbsp; <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> 
